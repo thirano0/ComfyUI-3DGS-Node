@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+*.js text eol=lf
+*.cjs text eol=lf
+*.md text eol=lf
+*.command text eol=lf
+*.ps1 text eol=lf
+*.bat text eol=crlf
+web/vendor/** -whitespace

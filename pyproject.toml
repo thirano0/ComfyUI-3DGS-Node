@@ -1,0 +1,12 @@
+[project]
+name = "comfyui-3dgs-node"
+description = "3D Gaussian Splatting scene editor for ComfyUI: view 3DGS, place meshes, and render multiple camera angles to images."
+version = "0.1.6"
+authors = [{ name = "Toshiki Hirano (Theoretical Hole Design)" }]
+license = { text = "MIT" }
+dependencies = ["numpy", "Pillow", "torch", "aiohttp"]
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI 3DGS Scene Editor"
+Icon = ""

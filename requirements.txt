@@ -1,0 +1,5 @@
+# Install using ComfyUI's Python environment. Existing packages are reused.
+numpy
+Pillow
+torch
+aiohttp
